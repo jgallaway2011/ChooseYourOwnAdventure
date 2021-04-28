@@ -4,7 +4,7 @@ Welcome to Wilderness Escape, an online Choose-Your-Own-Adventure. Our users get
 
 ## Usage
 
-```python
+```
 Clone Github project
 Run python3 script.py in the terminal.
 ```
