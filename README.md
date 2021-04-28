@@ -4,10 +4,9 @@ Welcome to Wilderness Escape, an online Choose-Your-Own-Adventure. Our users get
 
 ## Usage
 
-```
-Clone Github project
+Clone Github project <br/>
 Run 'python3 script.py' in the terminal.
-```
+
 ## Concepts
   Tree Data Scrutcutes <br/>
   Python Classes, Functions, & Variables
