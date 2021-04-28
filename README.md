@@ -9,5 +9,5 @@ Clone Github project
 Run python3 script.py in the terminal.
 ```
 ## Concepts
-Tree data scrutcutes
-Python Classes, Functions, & Variables
+-Tree Data Scrutcutes
+-Python Classes, Functions, & Variables
