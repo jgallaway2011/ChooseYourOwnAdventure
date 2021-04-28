@@ -6,7 +6,7 @@ Welcome to Wilderness Escape, an online Choose-Your-Own-Adventure. Our users get
 
 ```
 Clone Github project
-Run python3 script.py in the terminal.
+Run 'python3 script.py' in the terminal.
 ```
 ## Concepts
   Tree Data Scrutcutes <br/>
