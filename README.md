@@ -5,6 +5,7 @@ Welcome to Wilderness Escape, an online Choose-Your-Own-Adventure. Our users get
 ## Usage
 
 Clone Github project <br/>
+Navigate to project directory <br/>
 Run 'python3 script.py' in the terminal.
 
 ## Concepts
