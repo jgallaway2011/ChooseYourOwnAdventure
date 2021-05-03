@@ -1,6 +1,6 @@
 # Choose Your Own Adventure: Wilderness Escape
 
-Welcome to Wilderness Escape, an online Choose-Your-Own-Adventure. Our users get a unique story experience by picking the next chapter of their adventure. We use the tree data structure to keep track of the different paths a user may choose. Let’s get started!
+Wilderness Escape, an online Choose-Your-Own-Adventure, allows users to interact with the story and direct their path. The tree data structure is used to keep track of the different paths a user may choose.
 
 ## Usage
 
